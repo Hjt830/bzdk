@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.bzdk668.cn/uploads/goodPraise.ipa</string>
+                    <string>https://github.com/Hjt830/bzdk/blob/master/goodPraise.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>http://www.bzdk668.cn/uploads/logo_57×57.png</string>
+                    <string>https://github.com/Hjt830/bzdk/blob/master/logo_57×57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>http://www.bzdk668.cn/uploads/logo_512×512.png</string>
+                    <string>https://github.com/Hjt830/bzdk/blob/master/logo_512×512.png</string>
                 </dict>
             </array>
             <key>metadata</key>
